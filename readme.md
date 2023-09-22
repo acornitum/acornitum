@@ -14,7 +14,7 @@ I've been meaning to do this for a while and I finally figured out how to "commi
 If there are no additional pretty green squares beyond this day, it's either because:
 - I can't figure out how to commit(?) additional edits(?)
 - I've given up on my project
-- I forgot about the existance of entire thing
+- I've forgotten about the existance of entire thing
 
 Anyways, take your pick. 
 
