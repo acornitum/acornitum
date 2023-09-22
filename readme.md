@@ -6,9 +6,9 @@ I enjoy competitive programming with a side dish of art, video editing, and deba
 
 My most recent project (updated last at fall 2023) is a 3d platformer/pfs game made in Unity. Hopefully this try won't go down in flames, but we'll see. 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acornitum)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=acornitum&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
-## other misc stuff
+### other stuff i had to say
 
 "But Acon-" I hear the one person stalking my profile (you) asking- "why are you even bothering with this 'GitHub' thing?"
 
