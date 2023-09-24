@@ -1,8 +1,8 @@
 # Hi! Welcome to whatever this place of mine is :D
 
-I go by Acon! I'm a high school senior located somewhere in Ontario, Canada. 
+🫡 I go by Acon! I'm a high school senior located somewhere in Ontario, Canada. 
 
-I enjoy competitive programming with a side dish of art, video editing, and debate. I like to think I'm somewhat good at a lot of things, but not great at anything.
+I enjoy competitive programming💻 with a side dish of art🖌️, video editing⏩, and debate🎙️.
 
 My most recent project (updated last at fall 2023) is a 3d platformer/pfs game made in Unity. Hopefully this try won't go down in flames, but we'll see. 
 
