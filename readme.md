@@ -1,7 +1,8 @@
 # Hi! Welcome to whatever this place of mine is :D
 
-🫡 I go by Acon! I'm a high school senior located somewhere in Ontario, Canada. 
+🫡 I go by Acon! I'm a student located somewhere in Ontario, Canada. 
 
-I enjoy competitive programming💻 with a side dish of art🖌️, video editing⏩, and debate🎙️.
+I know this place looks a little blank right now, but stay tuned 👀 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=acornitum&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+Outside of whatever this is, I also enjoy doing debate, art, and playing mtg!
+
